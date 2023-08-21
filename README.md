@@ -1,5 +1,5 @@
-# Shinobi_NVR
-Just the Shinobi Network Video Recorder fail2ban filter
+# Shinobi_CCTV
+Just the Shinobi Closed Circuit TeleVision fail2ban filter
 
 ## To add/append to jail.local on the fail2ban root dir (replacing \*\*\*2replace\*\*\*):
 [\*\*\*JailName\*\*\*]\
