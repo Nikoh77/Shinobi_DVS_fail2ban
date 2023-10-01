@@ -8,7 +8,7 @@ fail2ban at least version 1.0
 # On Shinobi server:
 After fail2ban installation do:\
 `cp jail.conf jail.local` to prevent future fail2ban updates from changing your configuration.\
-Add/append below section to jail.local on the fail2ban root dir (replacing \*\*\*2replace\*\*\*) with your data
+Add/append below section to jail.local on the fail2ban root dir (replacing \*\*\*2replace\*\*\*) with your data:
 ```
 [\*\*\*JailName\*\*\*]\
 enabled = true\
