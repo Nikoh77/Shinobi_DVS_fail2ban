@@ -36,4 +36,4 @@ you should get the requested data back\
 so user above can call needed commands as root...
 
 # Contacts:
-For any questions, you can find me on the official Shinobi Discord server (if I don't respond, please ping me), or if you are Italian you could join this telegram group: https://t.me/shinobi_italia
+For any questions, you can find me on the official Shinobi Discord server (if I don't answer, please ping me), or if you are Italian you could join this telegram group: https://t.me/shinobi_italia
