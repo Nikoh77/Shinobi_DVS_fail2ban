@@ -1,5 +1,5 @@
-# Shinobi_CCTV
-Just the Shinobi Closed Circuit TeleVision fail2ban filter
+# Shinobi DVS
+Just the Shinobi Digital Video Server fail2ban filter
 
 ## Prerequisites:
 fail2ban at least version 1.0
